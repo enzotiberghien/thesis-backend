@@ -32,7 +32,7 @@ const addContact = async (req, res) => {
 }
 
 
-// @desc Update an album
+// @desc Update a contact
 // @route PUT/api/contacts/:id
 const updatedContact = (async (req, res) => {
   try {
